@@ -1,5 +1,5 @@
 
-Shell - Real interview questions faced during interviews
+### Shell - Real interview questions faced during interviews ###
 1.	What is CRONTAB?
 2.	How would you know the disk usage using the shell script commands?
 3.	Give the purpose of the shebang line?
@@ -9,7 +9,7 @@ Shell - Real interview questions faced during interviews
 7.	How can you determine if a linux server is virtualized or bare-metal?
 8.	Explain special variables in Shell
 
-Linux - Real interview questions faced during interviews
+### Linux - Real interview questions faced during interviews ###
 1.	What is the difference between a hard link and a soft link in Linux?
 2.	How can you check the memory usage of a Linux system?
 3.	How do you find the IP address of a Linux system?
@@ -32,7 +32,8 @@ Linux - Real interview questions faced during interviews
 20.	What are the Linux commands you use daily?
 21.	Linux file permissions types
 22.	How do you clear the server if you continuously get Space not available
-Linux Interview Questions 
+
+### Linux Interview Questions  ###
 1. What is the difference between a process and a thread in Linux?
 2. What is the difference between a hard link and a soft link in Linux?
 3. How can you check the memory usage of a Linux system?
@@ -57,7 +58,7 @@ Linux Interview Questions
 22. What are the Linux commands you use daily?
 23. Linux file permissions types
 
-Ansible Interview Questions
+### Ansible Interview Questions ###
 1.	what are tags in ansible?
 2.	what is ansible playbook?
 3.	What are handlers in Ansible playbook?
@@ -69,7 +70,8 @@ Ansible Interview Questions
 9.	Ansible host ping is success but I am not able to execute playbooks why?
 10.	What is Ansible Tower and what are its features
 11.	How do you keep data secret in a playbook?
-Git Interview Questions
+
+### Git Interview Questions ###
 1.	Git conflict?
 2.	Branching strategy?
 3.	how to resolve merge conflicts?
@@ -94,7 +96,8 @@ Monitoring Interview Questions
 6.	How do you create custom Prometheus alerts and alerting rules for Kubernetes monitoring? Provide an example alert rule and its configuration.
 7.	What is Grafana, and how does it complement Prometheus for Kubernetes monitoring?
 8.	Explain the concept of Grafana data sources and how they enable integration with various data providers, including Prometheus.
-AWS Interview Questions
+
+### AWS Interview Questions ###
 1.	what is the diff b\w ALB and NLB
 2.	How do you determine if a subnet is private or public?
 3.	What is diff b\w EBS and EFS
@@ -125,7 +128,8 @@ AWS Interview Questions
 28.	What is the storage facility present in EC2 instance?
 29.	How to attach NAT, internet gateways
 30.	Diff b/w on demand instance, spot instances, reserved instance
-Docker Interview Questions
+
+### Docker Interview Questions ###
 1.	what is the difference between Virtualization and Containerization?
 2.	How to do the port mapping to the container?
 3.	How can you get the shell access of a running container?
@@ -157,7 +161,8 @@ Docker Interview Questions
 29.	Docker command: COPY vs ADD.
 30.	ENTRYPOINT vs CMD in Dockerfile.
 31.	Tell us something about Docker Compose.
-Kubernetes Interview Questions
+
+### Kubernetes Interview Questions ###
 1.	Why do we need Kubernetes when you have Docker already?
 2.	What is the namespace in Kubernetes?
 3.	What is the difference between Pod and Container?
@@ -226,7 +231,8 @@ K8 Interview Questions
 24.	What is the k8 version you are using
 25.	What is difference between stateful sets and deployments in k8
 26.	Have you done the backup of etcd
-Jenkins CICD - Real interview questions faced during interviews
+
+### Jenkins CICD - Real interview questions faced during interviews ###
 1.	What are pipeline stages in your organization?
 2.	What is the architecture of your application CICD deployment in the current organization?
 3.	What is the issue have you faced in Jenkins non-prod to prod while building the Jenkins job?
@@ -251,7 +257,7 @@ Jenkins CICD - Real interview questions faced during interviews
 22.	How can you secure Jenkins?
 23.	What is the use of Backup Plugin in Jenkins? How to use it?
 
-Terraform - Real interview questions faced during interviews
+### Terraform - Real interview questions faced during interviews  ###
 1.	What is Terraform?
 2.	What is the state in Terraform?
 3.	What is the remote state in Terraform?
