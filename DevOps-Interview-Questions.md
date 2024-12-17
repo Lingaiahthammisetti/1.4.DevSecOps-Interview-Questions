@@ -9,30 +9,6 @@
 7.	How can you determine if a linux server is virtualized or bare-metal?
 8.	Explain special variables in Shell
 
-### Linux - Real interview questions faced during interviews ###
-1.	What is the difference between a hard link and a soft link in Linux?
-2.	How can you check the memory usage of a Linux system?
-3.	How do you find the IP address of a Linux system?
-4.	What is the purpose of the "chmod" command in Linux?
-5.	What is the purpose of the "grep" command?
-6.	How do you change the password for a user in Linux?
-7.	What is the purpose of the "crontab" in Linux?
-8.	How do you schedule a cron job in Linux?
-9.	Disk space full issue?
-10.	Running out of memory?
-11.	How do you troubleshoot high CPU usage on a Linux server?
-12.	Describe the boot process of a Linux system?
-13.	You need to transfer a large file securely between two Linux servers. What tools or protocols would you use, and why?
-14.	A user accidentally deleted an important file, and you need to recover it from the backup. Explain the steps you would take to restore the file.
-15.	A user reports that they are unable to connect to a remote Linux server using SSH. How would you troubleshoot and resolve this connectivity issue?
-16.	You need to find all files larger than 100MB in the /home directory and its subdirectories. How would you accomplish this task?
-17.	What is inode?
-18.	What is booting process in Linux?
-19.	How do you clear the server if you continuously get Space not available
-20.	What are the Linux commands you use daily?
-21.	Linux file permissions types
-22.	How do you clear the server if you continuously get Space not available
-
 ### Linux Interview Questions  ###
 1. What is the difference between a process and a thread in Linux?
 2. What is the difference between a hard link and a soft link in Linux?
@@ -87,7 +63,8 @@
 13.	How do you initialize a new Git repository?
 14.	What is the purpose of the Git staging area?
 15.	How do you commit changes in Git?
-Monitoring Interview Questions
+
+### Monitoring Interview Questions ###
 1.	What are the different dashboards created in Grafana?
 2.	What is the prometheus configuration file
 3.	What is Prometheus, and how does it contribute to Kubernetes monitoring?
@@ -204,7 +181,8 @@ Monitoring Interview Questions
 39.	What is the Kubernetes version you are using?
 40.	What is the difference between StatefulSets and Deployments in Kubernetes?
 41.	Have you done the backup of etcd
-K8 Interview Questions
+
+### K8 Interview Questions ###
 1.	if I want to run a specific container in pod in Kubernetes how to run it?
 2.	Entry point vs CMD
 3.	How the pods are communicating with each other?
